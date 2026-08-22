@@ -1,42 +1,48 @@
 # Hi, I’m Akshith Moharampudi
 
-I am an MComp Computer Science graduate from Middlesex University London, awarded Upper Second-Class Honours. I am interested in responsible AI, machine learning evaluation, data modelling, reproducible software and computational sustainability.
+I am an MComp Computer Science graduate from Middlesex University London, awarded Upper Second-Class Honours. My interests include trustworthy and responsible AI, machine-learning evaluation, data quality, reproducible research software and computational sustainability.
 
-I build transparent research prototypes that preserve uncertainty, document limitations and keep people involved in important decisions. My hospitality experience also gave me direct insight into operational challenges involving electricity, water, heating and food waste, motivating me to connect computing research with practical problems.
+I build transparent, human-governed research prototypes that preserve uncertainty, document limitations and pause for review when evidence is insufficient. I am currently seeking fully funded PhD opportunities in Computer Science, Responsible AI, Machine Learning, Information Systems, Data Engineering and related interdisciplinary fields.
 
 ## Featured projects
 
-### Community Fact-Checking AI
+### TrustLens AI — Human-Governed Machine Learning
 
-A responsible-AI research prototype for evidence ranking, anonymous community review, uncertainty reporting and human-approved fact-checking. It includes an optional local LLM workflow, strict output validation and controlled evaluation cases.
+My principal research portfolio project: a responsible-AI prototype for cost-sensitive risk modelling with probability calibration, governed threshold selection, drift and out-of-distribution detection, fairness diagnostics, explainability, feature-ablation studies and mandatory human-review safeguards. It includes a locked final evaluation, 27 automated tests and a deployed Streamlit demonstration. It is an educational research prototype and is not intended for real lending decisions.
 
-[View project](https://github.com/akshith2001/community-fact-checking-ai)
+[View repository](https://github.com/akshith2001/trustlens-ai) · [Open live demonstration](https://trustlens-governance-ai.streamlit.app/)
 
 ### Hospitality Sustainability AI
 
-An explainable machine-learning prototype for hospitality electricity prediction, anomaly investigation and sustainability decisions. It includes time-aware evaluation, data-quality checks, human-review safeguards and transparent reporting of unsuccessful results.
+An explainable machine-learning research prototype for hospitality electricity prediction, anomaly investigation and sustainability decisions. It uses real building-energy records, time-aware evaluation, data-quality checks, human-review safeguards and transparent reporting of both successful and unsuccessful results.
 
-[View project](https://github.com/akshith2001/hospitality-sustainability-ai)
+[View repository](https://github.com/akshith2001/hospitality-sustainability-ai)
 
 ### Greenhouse-Gas Scenario Model
 
 A transparent Python model for comparing cross-sector emissions pathways, reduction scenarios and uncertainty across electricity, heating, transport, waste, industry and hospitality.
 
-[View project](https://github.com/akshith2001/ghg-scenario-model)
+[View repository](https://github.com/akshith2001/ghg-scenario-model)
 
-## Technical interests
+### Community Fact-Checking AI
 
-- Responsible and explainable AI
-- Machine learning evaluation
-- Python and data modelling
-- Information systems and data quality
-- Reproducible research software
+A responsible-AI prototype for evidence ranking, anonymous community review, uncertainty reporting and human-approved fact-checking. It includes an optional local LLM workflow, strict output validation and controlled evaluation cases.
+
+[View repository](https://github.com/akshith2001/community-fact-checking-ai)
+
+## Research and technical interests
+
+- Trustworthy, responsible and explainable AI
+- Machine-learning evaluation, calibration and model governance
+- Data quality, distribution shift and uncertainty
+- Python, data modelling and reproducible research software
+- Information systems and privacy-aware analytics
 - Energy informatics and computational sustainability
-- Human oversight and AI governance
+- Human oversight in high-stakes AI
 
 ## Current objective
 
-I am seeking fully funded PhD opportunities in Computer Science, Responsible AI, Machine Learning, Information Systems, Data Engineering, Software Engineering and related interdisciplinary fields.
+I am seeking fully funded PhD opportunities where I can develop rigorous, socially useful and human-centred computing research.
 
 ## Connect with me
 
