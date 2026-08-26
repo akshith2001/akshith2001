@@ -8,7 +8,7 @@ I build transparent, human-governed research prototypes that preserve uncertaint
 
 ### TrustLens AI — Human-Governed Machine Learning
 
-My principal research portfolio project: a responsible-AI prototype for cost-sensitive risk modelling with probability calibration, governed threshold selection, drift and out-of-distribution detection, fairness diagnostics, explainability, feature-ablation studies and mandatory human-review safeguards. It includes a locked final evaluation, 27 automated tests and a deployed Streamlit demonstration. It is an educational research prototype and is not intended for real lending decisions.
+My principal research portfolio project, TrustLens AI v0.4.0, is a human-governed responsible-AI platform for reliability-aware risk classification. It combines calibration, governed thresholds, drift and out-of-distribution detection, fairness diagnostics, explainability and mandatory human review with an authenticated governance API, checksum-backed model registry, experiment ledger and aggregate monitoring. The release publishes independent FICO HELOC credit-domain validation, 63 automated tests, 90.08% statement coverage, green Tests/CodeQL/container CI, an SBOM and Apache-2.0 licensing. The external dataset's collection period is undocumented, and the project is educational research—not a system for real lending decisions.
 
 [View repository](https://github.com/akshith2001/trustlens-ai) · [Open live demonstration](https://trustlens-governance-ai.streamlit.app/)
 
