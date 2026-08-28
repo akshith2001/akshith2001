@@ -2,7 +2,7 @@
 
 I am an MComp Computer Science graduate from Middlesex University London, awarded Upper Second-Class Honours. My interests include trustworthy and responsible AI, machine-learning evaluation, data quality, reproducible research software and computational sustainability.
 
-I build transparent, human-governed research prototypes that preserve uncertainty, document limitations and pause for review when evidence is insufficient. I am currently seeking fully funded PhD opportunities in Computer Science, Responsible AI, Machine Learning, Information Systems, Data Engineering and related interdisciplinary fields.
+I build transparent research prototypes that preserve uncertainty, document limitations and make their evidence boundaries visible. My two principal research programmes are TrustLens AI, focused on evidence-constrained decision support, and a cross-sector greenhouse-gas scenario model focused on transparent uncertainty and robust mitigation priorities. I am currently seeking fully funded PhD opportunities in Computer Science, Responsible AI, Machine Learning, Information Systems and computational sustainability.
 
 ## Featured projects
 
@@ -10,19 +10,25 @@ I build transparent, human-governed research prototypes that preserve uncertaint
 
 My principal research portfolio project, TrustLens AI v0.4.0, is a human-governed responsible-AI platform for reliability-aware risk classification. It combines calibration, governed thresholds, drift and out-of-distribution detection, fairness diagnostics, explainability and mandatory human review with an authenticated governance API, checksum-backed model registry, experiment ledger and aggregate monitoring. The release publishes independent FICO HELOC credit-domain validation, 63 automated tests, 90.08% statement coverage, green Tests/CodeQL/container CI, an SBOM and Apache-2.0 licensing. The external dataset's collection period is undocumented, and the project is educational research—not a system for real lending decisions.
 
-[View repository](https://github.com/akshith2001/trustlens-ai) · [Open live demonstration](https://trustlens-governance-ai.streamlit.app/)
+[View repository](https://github.com/akshith2001/trustlens-ai) · [Read the research agenda](https://github.com/akshith2001/trustlens-ai/blob/main/docs/research_agenda.md) · [Open live demonstration](https://trustlens-governance-ai.streamlit.app/)
+
+**Research direction:** Can an evidence contract—provenance, uncertainty, limitation, permitted interpretation and human action—help people recognise when a high-stakes prediction should be used, deferred or rejected?
+
+### GHG Scenario Model — Transparent Climate Analytics
+
+A transparent Python research prototype for comparing emissions pathways across electricity, heating, transport, waste, industry and hospitality. It combines editable activity data and emission factors with scenario analysis, one-at-a-time sensitivity and reproducible Monte Carlo uncertainty. Results are conditional scenario estimates—not measurements or forecasts.
+
+[View repository](https://github.com/akshith2001/ghg-scenario-model) · [Read the research agenda](https://github.com/akshith2001/ghg-scenario-model/blob/main/docs/research_agenda.md)
+
+**Research direction:** Which mitigation priorities remain stable when activity data, emission factors, uncertainty assumptions and system boundaries change?
+
+## Additional projects
 
 ### Hospitality Sustainability AI
 
 An explainable machine-learning research prototype for hospitality electricity prediction, anomaly investigation and sustainability decisions. It uses real building-energy records, time-aware evaluation, data-quality checks, human-review safeguards and transparent reporting of both successful and unsuccessful results.
 
 [View repository](https://github.com/akshith2001/hospitality-sustainability-ai)
-
-### Greenhouse-Gas Scenario Model
-
-A transparent Python model for comparing cross-sector emissions pathways, reduction scenarios and uncertainty across electricity, heating, transport, waste, industry and hospitality.
-
-[View repository](https://github.com/akshith2001/ghg-scenario-model)
 
 ### Community Fact-Checking AI
 
