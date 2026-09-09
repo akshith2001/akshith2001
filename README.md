@@ -2,15 +2,15 @@
 
 I am an MComp Computer Science graduate from Middlesex University London, awarded Upper Second-Class Honours. My interests include trustworthy and responsible AI, machine-learning evaluation, data quality, reproducible research software and computational sustainability.
 
-I build transparent research prototypes that preserve uncertainty, document limitations and make their evidence boundaries visible. My two principal research programmes are TrustLens AI, focused on evidence-constrained decision support, and a cross-sector greenhouse-gas scenario model focused on transparent uncertainty and robust mitigation priorities. I am currently seeking fully funded PhD opportunities in Computer Science, Responsible AI, Machine Learning, Information Systems and computational sustainability.
+I build transparent research prototypes that preserve uncertainty, document limitations and make their evidence boundaries visible. My two principal research programmes are TrustLens AI, focused on evidence-constrained decision support, and a cross-sector greenhouse-gas scenario model focused on transparent uncertainty and robust mitigation priorities. I am currently seeking fully funded, salaried PhD opportunities across Europe in Computer Science, Responsible AI, Machine Learning, Information Systems and computational sustainability.
 
 ## Featured projects
 
 ### TrustLens AI — Human-Governed Machine Learning
 
-My principal research portfolio project, TrustLens AI v0.4.0, is a human-governed responsible-AI platform for reliability-aware risk classification. It combines calibration, governed thresholds, drift and out-of-distribution detection, fairness diagnostics, explainability and mandatory human review with an authenticated governance API, checksum-backed model registry, experiment ledger and aggregate monitoring. The release publishes independent FICO HELOC credit-domain validation, 63 automated tests, 90.08% statement coverage, green Tests/CodeQL/container CI, an SBOM and Apache-2.0 licensing. The external dataset's collection period is undocumented, and the project is educational research—not a system for real lending decisions.
+My principal research portfolio project, TrustLens AI v0.4.0, is a human-governed responsible-AI platform for reliability-aware risk classification. It combines calibration, governed thresholds, drift and out-of-distribution detection, fairness diagnostics, explainability and mandatory human review with an authenticated governance API, checksum-backed model registry, experiment ledger and aggregate monitoring. The release publishes independent FICO HELOC credit-domain validation, 76 automated tests, 90.01% statement coverage, green Tests/CodeQL/container CI, an SBOM and Apache-2.0 licensing. The external dataset's collection period is undocumented, and the project is educational research—not a system for real lending decisions.
 
-[View repository](https://github.com/akshith2001/trustlens-ai) · [Read the research agenda](https://github.com/akshith2001/trustlens-ai/blob/main/docs/research_agenda.md) · [Open live demonstration](https://trustlens-governance-ai.streamlit.app/)
+[View repository](https://github.com/akshith2001/trustlens-ai) · [Read the archived preprint](https://doi.org/10.5281/zenodo.22664688) · [Read the research agenda](https://github.com/akshith2001/trustlens-ai/blob/main/docs/research_agenda.md) · [Open live demonstration](https://trustlens-governance-ai.streamlit.app/)
 
 **Research direction:** Can an evidence contract—provenance, uncertainty, limitation, permitted interpretation and human action—help people recognise when a high-stakes prediction should be used, deferred or rejected?
 
@@ -28,7 +28,7 @@ A transparent Python research prototype for comparing emissions pathways across 
 
 An explainable machine-learning research prototype for hospitality electricity prediction, anomaly investigation and sustainability decisions. It uses real building-energy records, time-aware evaluation, data-quality checks, human-review safeguards and transparent reporting of both successful and unsuccessful results.
 
-[View repository](https://github.com/akshith2001/hospitality-sustainability-ai)
+[View repository](https://github.com/akshith2001/hospitality-sustainability-ai) · [Read the archived preprint](https://doi.org/10.5281/zenodo.22664937)
 
 ### Community Fact-Checking AI
 
@@ -48,7 +48,7 @@ A responsible-AI prototype for evidence ranking, anonymous community review, unc
 
 ## Current objective
 
-I am seeking fully funded PhD opportunities where I can develop rigorous, socially useful and human-centred computing research.
+I am seeking fully funded, salaried PhD opportunities across Europe where I can develop rigorous, socially useful and human-centred computing research.
 
 ## Connect with me
 
