@@ -22,6 +22,14 @@ A transparent Python research prototype for comparing emissions pathways across 
 
 **Research direction:** Which mitigation priorities remain stable when activity data, emission factors, uncertainty assumptions and system boundaries change?
 
+### Cross-Domain Robustness Synthesis — Metric Validity Across ML Systems
+
+A reproducible research synthesis testing whether one robustness-retention score can be compared fairly across independently evaluated machine-learning systems. Using only locked results from TrustLens AI, the GHG scenario model and Hospitality Sustainability AI, it shows that an apparently clean ranking reverses when equally defensible alternative metrics are used. The result supports reporting a small vector of named, domain-appropriate robustness measures instead of one aggregate score.
+
+[View repository](https://github.com/akshith2001/cross-domain-robustness-synthesis) · [View release v0.1.0](https://github.com/akshith2001/cross-domain-robustness-synthesis/releases/tag/v0.1.0)
+
+**Research direction:** What evidence is required before robustness results from different machine-learning domains can be compared without creating a misleading ranking?
+
 ## Additional projects
 
 ### Hospitality Sustainability AI
